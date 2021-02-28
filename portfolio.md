@@ -4,9 +4,9 @@ For the portfolio part of the assessment all of the following documents (i.e. an
 
 ## Documents presented for SP1
 
-- [Ideation report](1_user_and_competitor_research/ideation.md)
-- [Initial User Research report](1_user_and_competitor_research/user-research.md)
-- [Client proposal](1_user_and_competitor_research/proposal.md)
+- [Ideation report](1_User_and_competitor_research/ideation.md)
+- [Initial User Research report](1_User_and_competitor_research/user-research.md)
+- [Client proposal](1_User_and_competitor_research/proposal.md)
 
 ### Advice on how to complete these documents
 
@@ -22,8 +22,8 @@ For the portfolio part of the assessment all of the following documents (i.e. an
 
 ## Documents presented for SP2
 
-- [Personas](2_IA_and_content_strategy/personas.md)
-- [Site plan](2_IA_and_content_strategy/siteplan.md)
+- [Personas](2_Information_architecture/personas.md)
+- [Site plan](2_Information_architecture/siteplan.md)
 
 
 ### Advice on how to complete these documents
@@ -34,8 +34,8 @@ For the portfolio part of the assessment all of the following documents (i.e. an
 
 ## Documents created for SP3
 
-- [Content Delivery Schedule](2_IA_and_content_strategy/content-delivery-schedule.xlsx) (MS Excel file)
-- [Storyboards](2_IA_and_content_strategy/storyboards.md)
+- [Content Delivery Schedule](3_Content_strategy/content-delivery-schedule.xlsx) (MS Excel file)
+- [Storyboards](3_Content_strategy/storyboards.md)
 
 ### Advice on how to complete these documents
 
@@ -45,9 +45,9 @@ For the portfolio part of the assessment all of the following documents (i.e. an
 
 ## Documents from SP4
 
-- [Mood boards](4_design_and_prototyping/mood-boards.md)
-- [Style guide](4_design_and_prototyping/style-guide.md)
-- [Page mockup](4_design_and_prototyping/page-mockup.md)
+- [Mood boards](4_Design_and_prototyping/mood-boards.md)
+- [Style guide](4_Design_and_prototyping/style-guide.md)
+- [Page mockup](4_Design_and_prototyping/page-mockup.md)
 
 ### Advice on how to complete these documents
 
@@ -62,10 +62,10 @@ Your finished website and the remaining elements of the portfolio:
 
 ### Quality Assurance (QA) elements
 
-- [Quality audit](6_QA_and_the_guide/quality_audit.md)
-- [Accessibility audit](6_QA_and_the_guide/accessibility.md)
+- [Quality audit](6_Quality_assurance/quality_audit.md)
+- [Accessibility audit](6_Quality_assurance/accessibility.md)
 - **Peer assessment** forms to be completed in class as required.
-- Each team member must upload their individual statement to the relevant dropbox on Moodle. Use this [individual statement template](6_QA_and_the_guide/individual_statement.docx) as a guide to completing your statement.
+- Each team member must upload their individual statement to the relevant dropbox on Moodle. Use this [individual statement template](6_Quality_assurance/individual_statement.docx) as a guide to completing your statement.
 
 ### Advice on how to complete the QA documents
 
