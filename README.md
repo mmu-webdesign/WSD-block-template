@@ -57,7 +57,7 @@ These documents outline the work you need to carry out each week. You will be wo
 
 - Set up and agree communications channels. This will be based around MS Teams, but you may want to support this using oter channels.
 
-- Record meetings and action points in the Meetings log file on GitHub and track contributions via GitHub. If someone is failing to contribute their fair share to the group, manage this or discuss the issues with the tutors **urgently**.
+- Record meetings and action points in the [Meetings log file](WSD-meetings-log.xlsx) on GitHub and track contributions via GitHub. If someone is failing to contribute their fair share to the group, manage this or discuss the issues with the tutors **urgently**.
 
 ---
 
