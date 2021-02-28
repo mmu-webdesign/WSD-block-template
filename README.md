@@ -19,7 +19,7 @@
 
 ## Longer Assessment overview
 
-> **IMPORTANT -[Read the assignment overview - The brief](the-brief.md)**.
+> **IMPORTANT - [Read the assignment overview - The brief](the-brief.md)**.
 
 The portfolio contains a variety of elements to be completed including the proposal, site plan, moodboards, quality audit and many other tools for site development. These are collected together into smaller sub-portfolios called submission points. Each teaching week we will review these documents, providing feedback and allowing you to make improvements. They will not be assessed until the submission at the end of the unit.
 
