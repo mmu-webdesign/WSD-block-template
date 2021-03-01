@@ -8,7 +8,7 @@ Formative feedback on these documents will be provided during your weekly meetin
 
 The following documents should be presented:
 
-- [Storyboards](#Storyboards)
+- [Storyboards](#storyboards)
 - [Content Delivery Schedule](#content-delivery-schedule)
 
 ---
