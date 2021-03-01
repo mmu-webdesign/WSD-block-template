@@ -13,7 +13,7 @@ The following documents should be presented:
 
 ---
 
-## User Storyboards
+## Storyboards
 
 > STORYBOARDING, a technique used in the film-making industry, is a way of conveying a story to teams and stakeholders, as well as a way to explore the best way to tell the story visually before spending a lot of money producing it. [Bryant Hodson](https://uxdesign.cc/how-to-storyboard-experiences-fc051e2bc04d)
 
