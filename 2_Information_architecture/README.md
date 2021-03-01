@@ -34,6 +34,18 @@ We prefer you to be creative and develop your own personas over using a template
 
 ## Site Plan
 
+Information Architecture - The team must carry out and record both an **Open Card Sort** and **Tree Testing** exercises to inform your initial site architecture. This will be illustrated as a site plan.
+
+> Card sorting is a method used to help design or evaluate the information architecture of a site. In a card sorting session, participants organize topics into categories that make sense to them and they may also help you label these groups. [Usability.gov](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html).
+
+Undertake an Open Card Sort with a number of people using paper or [Optimal Workshop Card Sort](https://www.optimalworkshop.com/optimalsort) (online).
+
+Read [Card Sorting 101: Your guide to creating and running an effective card sort](https://www.optimalworkshop.com/101/card-sorting). Optimal Sort.
+
+Once you have an architecture you like, test it out with a tree testing exercise, again on paper or using [Optimal Workshop Treejack](https://www.optimalworkshop.com/treejack) (online) on a number of people.
+
+Read [Tree Testing 101: Your guide to creating and running effective tree tests](https://www.optimalworkshop.com/101/tree-testing).
+
 A site plan is an 2D illustration of your recommended architecture for the new site based on the findings of your card sorting and tree testing exercise.
 
 You should use the format illustrated in class created in PowerPoint, use a flow chart tool like Visio, or draw with an illustration tool.
@@ -49,27 +61,5 @@ You should use the format illustrated in class created in PowerPoint, use a flow
 - add commentary as directed.
 
 > Document: [siteplan.md](siteplan.md)
-
----
-
-## Information Architecture Report
-
-Information Architecture Report - The team must carry out and record both an **Open Card Sort** and **Tree Testing** exercises to inform your initial site architecture. This will be illustrated as a site plan.
-
-> Card sorting is a method used to help design or evaluate the information architecture of a site. In a card sorting session, participants organize topics into categories that make sense to them and they may also help you label these groups. [Usability.gov](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html).
-
-Undertake an Open Card Sort with a number of people using paper or [Optimal Workshop Card Sort](https://www.optimalworkshop.com/optimalsort) (online).
-
-Read [Card Sorting 101: Your guide to creating and running an effective card sort](https://www.optimalworkshop.com/101/card-sorting). Optimal Sort.
-
-Once you have an architecture you like, test it out with a tree testing exercise, again on paper or using [Optimal Workshop Treejack](https://www.optimalworkshop.com/treejack) (online) on a number of people.
-
-Read [Tree Testing 101: Your guide to creating and running effective tree tests](https://www.optimalworkshop.com/101/tree-testing).
-
-### Report
-
-Write a short (800 words maximum) illustrated report on the process and results of both the card sort and tree testing exercises.
-
-> Document: [ia-report.md](ia-report.md)
 
 ---
