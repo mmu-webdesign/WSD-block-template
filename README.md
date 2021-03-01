@@ -32,7 +32,7 @@ These documents outline the work you need to carry out each week. You will be wo
 - [Submission Point 1](1_User_and_competitor_research/README.md) - Ideation & user research
 - [Submission Point 2](2_Information_architecture/README.md) - Information architecture
 - [Submission Point 3](3_Content_strategy/README.md) - Content strategy & writing for the web
-- [Submission Point 4](4_design_and_prototyping/README.md) - Design and Prototyping
+- [Submission Point 4](4_Design_and_prototyping/README.md) - Design and Prototyping
 - [Submission Point 5](5_Group-x-website/README.md) - Building the website
 - [Submission Point 6](6_Quality_assurance/README.md) - Quality assurance
 
