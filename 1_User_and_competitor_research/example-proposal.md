@@ -1,6 +1,8 @@
-# An example proposal
+# Proposal
 
-Use these headings and phrases as a jumping off point to create your group's proposal. Delete anything that is not relevant, and rephrase or rewrite the sentences below to fit your needs.
+**Word count** 1000 words (+/- 10%) maximum
+
+Retain the headings provided, and use the phrases as a jumping off point to create your group's proposal. Delete anything that is not relevant, and rephrase or rewrite the sentences below to fit your needs. 
 
 ## Project summary
 
@@ -56,4 +58,4 @@ The website organisation, navigation, labelling, homepage design and 'calls to a
 
 ## References
 
-If required.
+As required.
