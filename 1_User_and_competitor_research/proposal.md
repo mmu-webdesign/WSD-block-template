@@ -2,7 +2,7 @@
 
 **Word count** 1000 words (+/- 10%) maximum
 
-Retain the headings provided, and use the phrases as a jumping off point to create your group's proposal. Delete anything that is not relevant, and rephrase or rewrite the sentences below to fit your needs. 
+_Retain the headings provided, and use the phrases as a jumping off point to create your group's proposal. Delete anything that is not relevant, and rephrase or rewrite the sentences below to fit your needs._ 
 
 ## Project summary
 
