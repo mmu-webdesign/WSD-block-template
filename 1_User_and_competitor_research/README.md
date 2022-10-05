@@ -81,3 +81,13 @@ Each team member should develop 2 or 3 user profiles. Note: these are not Person
 You are trying to collect thoughts of 'real' people about the type of product you are about to build (and their experience of similar products). At this stage we are just collecting anything that may be useful - you can figure out what is actually useful later.
 
 > Document: [user-research.md](user-research.md)
+
+## Competitor Analysis
+
+As a team, you are required to review 3 web sites that are similar to the type of site you are building. These sites may be local, UK-based or overseas (if relevant).
+
+Analyse the 3 sites using the criteria on the Competitor Analysis document provided.
+
+**The Competitor Analysis document is too complex for Markdown and is therefore supplied as an MSword document.**
+
+> Document: [competitor-analysis.docx ](competitor-analysis.docx) provided.
