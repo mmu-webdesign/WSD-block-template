@@ -2,9 +2,11 @@
 
 ## Submission Point One
 
-SP1 is an assessed feedback session with tutors. Use the planning document as a guide. Marks are awarded for how well your documents are prepared.
+SP1 is a collection of documents resulting from the web development processes undertaken during week 1. 
 
-The following documents should be presented. Note that they are not being finally assessed. This is a chance to get formative feedback on your progress and to go on to improve these documents.
+Formative feedback on these documents will be provided during your weekly meeting with the tutors, enabling you to make amendments before final submission.
+
+The following documents should be presented:  
 
 > These documents are assessed at the final submission.
 
