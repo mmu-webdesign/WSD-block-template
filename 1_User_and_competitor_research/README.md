@@ -1,16 +1,17 @@
-# Ideation & user research
+# User &amp; Competitor Research
 
 ## Submission Point One
 
-SP1 is a collection of documents resulting from the web development processes undertaken during week 1. 
+SP1 is an assessed feedback session with tutors. Use the planning document as a guide. Marks are awarded for how well your documents are prepared.
 
-Formative feedback on these documents will be provided during your weekly meeting with the tutors, enabling you to make amendments before final submission.
+The following documents should be presented. Note that they are not being finally assessed. This is a chance to get formative feedback on your progress and to go on to improve these documents.
 
-The following documents should be presented:  
+> These documents are assessed at the final submission.
 
 - [Ideation Report](#Ideation-Report)
-- [The Proposal](#The-Proposal)
 - [User Research Report](#User-Research-Report)
+- [The Proposal](#The-Proposal)
+- [Competitor Analysis](#Competitor-Analysis)
 
 First, a few words about our use of Markdown and GitHub.
 
