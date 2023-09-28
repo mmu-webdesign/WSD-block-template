@@ -2,7 +2,7 @@
 
 ## Submission Point Two
 
-SP2 is a collection of documents resulting from the web development processes undertaken during week 2. 
+SP2 is a collection of documents resulting from the web development processes undertaken in SP1. 
 
 Formative feedback on these documents will be provided during your weekly meeting with the tutors, enabling you to make amendments before final submission.
 
