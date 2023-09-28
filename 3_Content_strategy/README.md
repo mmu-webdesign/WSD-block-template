@@ -2,7 +2,7 @@
 
 ## Submission Point Three
 
-SP3 is a collection of documents resulting from the web development processes undertaken during week 3. 
+SP3 is a collection of documents resulting from the web development processes so far undertaken. 
 
 Formative feedback on these documents will be provided during your weekly meeting with the tutors, enabling you to make amendments before final submission.
 
